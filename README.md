@@ -8,3 +8,6 @@ https://drive.google.com/file/d/12Prd7Gbs3H2D5e5_ZTrULYm0w3cl48vV/view?usp=shari
 
 Задание 1.3:
 https://drive.google.com/file/d/1Hq7cnQFlTkk6hFnKg7Sg-1cGDi2Ptrdo/view?usp=sharing
+
+Задание 1.4:
+https://drive.google.com/file/d/1D-FPBdgZGz-ANZZc75jz3QVuXP8svYqR/view?usp=sharing
