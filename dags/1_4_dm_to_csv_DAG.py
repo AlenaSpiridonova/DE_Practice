@@ -20,6 +20,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
+
 # Функция экспорта данных в CSV-файл
 def export_to_csv():
     try:

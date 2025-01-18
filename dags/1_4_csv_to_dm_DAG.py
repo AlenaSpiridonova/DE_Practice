@@ -193,7 +193,7 @@ with DAG(
 
     # 4. Логирование завершения ETL-процесса
     end_log_task = PythonOperator(
-        task_id=f'dm_to_csv_end_log_{dm_name}',
+        task_id=f'csv_to_dm_end_log_{dm_name}',
         python_callable=update_etl_log_with_xcom,
         op_kwargs={'table_name': dm_name, 'status': 'SUCCESS'}
     )
